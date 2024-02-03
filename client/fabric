@@ -1,4 +1,4 @@
-#!/Users/daniel/Cloud/Development/fabric/client/.venv/bin/python3
+# !/Users/daniel/Cloud/Development/fabric/client/.venv/bin/python3
 
 from utils import Standalone, Update
 import argparse
